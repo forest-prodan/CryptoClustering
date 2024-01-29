@@ -1,1 +1,1 @@
-# CryptoClustering
+This project focuses on using Python and unsupervised learning techniques to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. The goal is to analyze the patterns and relationships between different cryptocurrencies and their price changes over time.
